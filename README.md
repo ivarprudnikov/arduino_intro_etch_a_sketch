@@ -22,7 +22,7 @@ Source code in `main` needs to be uploaded to the board. Required libraries incl
 which need to be imported via Arduino IDE.
 
 
-![schema](schema.svg)
+![schema](schema.jpg)
 
 
 ![photo](photo.jpg)
